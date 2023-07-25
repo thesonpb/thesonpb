@@ -13,4 +13,4 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/th%E1%BA%BF-s%C6%A1n-nguy%E1%BB%85n-a38b3a212/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thesonpb@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesonpb&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesonpb&layout=compact)
