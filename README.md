@@ -2,7 +2,7 @@
 ### I'm The Son 😎
 
 #### 💼 I’m currently working on:
-- Web Developer at VNPT-Technology
+- Web Developer at FPT Software
 - Projects that challenge my skills and knowledge as a Frontend Web Developer
 #### 🌱 I’m currently learning:
 - Frontend skils
